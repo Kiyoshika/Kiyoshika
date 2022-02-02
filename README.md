@@ -1,16 +1,17 @@
-### Hi there 👋
+# Kiyoshika
+My name is Zach, Kiyoshika is random alias I used in a game called RuneScape.
 
-<!--
-**Kiyoshika/Kiyoshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught programmer but also pretty passionate about statistics.
 
-Here are some ideas to get you started:
+I heavily prefer statically typed languages, more specifically C and C++. I love memory management and pointers even though it can be frustrating at times.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolkit
+* **C99** - Currently my primary programming language
+* **C++17** - Secondary programming language
+* **Python** - Usually only use this when I have to, although I am now working on some C --> Python bindings for practice
+* **R** - Only use this for statistical projects; I have a few repos on here that show some things I've built with R.
+
+## Main Projects
+Currently my main projects are:
+* **Zumpy** - A numpy-inspired array module for Python written in C. I started this project to understand how to use shared libraries in other languages, specifically Python.
+* **ZSL** - Acronyn for "Zach's Statistical Library". This is a re-implementation of an old C++ library I built called CppEZML (now archived). Currently this project is on hiatus in favor of Zumpy.
