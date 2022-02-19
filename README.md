@@ -17,4 +17,11 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 Currently my main projects are:
 * [Zumpy](https://github.com/Kiyoshika/Zumpy) - A numpy-inspired array module for Python written in C. I started this project to understand how to use shared libraries in other languages, specifically Python.
 * [ZSL](https://github.com/Kiyoshika/ZSL) - Acronyn for "Zach's Statistical Library". This is a re-implementation of an old C++ library I built called CppEZML (now archived). Currently this project is on hiatus in favor of Zumpy.
+
+## Mini Projects
+* [C-CSV-Parser](https://github.com/Kiyoshika/C-CSV-Parser) - A simple CSV parser which supports reading full CSV files or only specific columns and casting data to int/float. Will probably be used in my future projects that deal with external data.
 * [C-Hash-Map](https://github.com/Kiyoshika/C-Hash-Map) - A custom hashmap implementation for C which relies on another of my projects, [C-Linked-List](https://github.com/Kiyoshika/C-Linked-List) which is a linked list implementation for C.
+
+## Upcoming Proejcts?
+These projects are not finalized but some things I *may* work on (given the time):
+* [C-Source-Tracker]() - A code tracking software inspired by git to manage local repositories of code/files.
