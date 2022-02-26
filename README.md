@@ -15,6 +15,7 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 
 ## Main Projects
 Currently my main projects are:
+* [Generalized Model Framework (libgmf)](https://github.com/Kiyoshika/Generalized-Model-Framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
 * [Zumpy](https://github.com/Kiyoshika/Zumpy) - A numpy-inspired array module for Python written in C. I started this project to understand how to use shared libraries in other languages, specifically Python.
 * [ZSL](https://github.com/Kiyoshika/ZSL) - Acronyn for "Zach's Statistical Library". This is a re-implementation of an old C++ library I built called CppEZML (now archived). Currently this project is on hiatus in favor of Zumpy.
 
