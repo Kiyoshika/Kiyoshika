@@ -14,7 +14,10 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 * **R** - Only use this for statistical projects; I have a few repos on here that show some things I've built with R.
 
 ## Projects
+### Libraries
 * [Generalized Model Framework (libgmf)](https://github.com/Kiyoshika/Generalized-Model-Framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
 * [Zumpy](https://github.com/Kiyoshika/Zumpy) - A numpy-inspired array module for Python written in C. I started this project to understand how to use shared libraries in other languages, specifically Python.
 * [C-CSV-Parser](https://github.com/Kiyoshika/C-CSV-Parser) - A simple CSV parser which supports reading full CSV files or only specific columns and casting data to int/float.
 * [C-Hash-Map](https://github.com/Kiyoshika/C-Hash-Map) - A custom hashmap implementation for C which relies on another of my projects, [C-Linked-List](https://github.com/Kiyoshika/C-Linked-List) which is a linked list implementation for C.
+### Embedded
+Coming soon...
