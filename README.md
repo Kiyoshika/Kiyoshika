@@ -20,4 +20,4 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 * [C-CSV-Parser](https://github.com/Kiyoshika/C-CSV-Parser) - A simple CSV parser which supports reading full CSV files or only specific columns and casting data to int/float.
 * [C-Hash-Map](https://github.com/Kiyoshika/C-Hash-Map) - A custom hashmap implementation for C which relies on another of my projects, [C-Linked-List](https://github.com/Kiyoshika/C-Linked-List) which is a linked list implementation for C.
 ### Embedded
-Coming soon...
+* [Clone Hero Controller](https://github.com/Kiyoshika/CloneHeroController) - My first embedded project, a minature game controller for playing Clone Hero assembled (messily) onto a breadboard with a STM32F411xx microcontroller.
