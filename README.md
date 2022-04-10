@@ -20,6 +20,9 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 * [C-CSV-Parser](https://github.com/Kiyoshika/C-CSV-Parser) - A simple CSV parser which supports reading full CSV files or only specific columns and casting data to int/float.
 * [C-Hash-Map](https://github.com/Kiyoshika/C-Hash-Map) - A custom hashmap implementation for C which relies on another of my projects, [C-Linked-List](https://github.com/Kiyoshika/C-Linked-List) which is a linked list implementation for C.
 
+### Algorithms
+* [Generic Quicksort](https://github.com/Kiyoshika/Generic-Quicksort) - A templated generic quicksort algorithm in C++ to support native and user-defined data types.
+
 ### Software
 * [Source Tracker](https://github.com/Kiyoshika/Source-Tracker) - A heavily simplified "git" clone for local version control of files/code. I started this project to learn more about file management in C++ (using C++17's filesystem API).
 
