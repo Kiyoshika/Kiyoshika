@@ -28,5 +28,6 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 * [Source Tracker](https://github.com/Kiyoshika/Source-Tracker) - A heavily simplified "git" clone for local version control of files/code. I started this project to learn more about file management in C++ (using C++17's filesystem API).
 
 ### Embedded
+* [UART Server Client](https://github.com/Kiyoshika/UART-Server-Client) - A sample project to show how to make two different MCUs communicate with each other over UART. This was written "bare metal" with no libraries (besides device headers).
 * [Physical Clipboard Manager](https://github.com/Kiyoshika/Physical-Clipboard-Manager) - My second embedded project, a physical board with 8 buttons: 4 copy, 4 paste. When you press a copy button, it will fetch the current clipboard content and store it in FLASH memory on the MCU. When you press a paste button, it will retrieve the data from memory and paste it wherever your cursor currently is. This gives you 4 unique clipboards instead of the one default with Ctrl+C & Ctrl+V.
 * [Clone Hero Controller](https://github.com/Kiyoshika/CloneHeroController) - My first embedded project, a minature game controller for playing Clone Hero assembled (messily) onto a breadboard with a STM32F411xx microcontroller.
