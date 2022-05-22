@@ -31,6 +31,7 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 ## Embedded
 ### Libraries
 * [HD44780 LCD Library](https://github.com/Kiyoshika/HD44780-STM32) - A lightweight library for the HD44780 16x2 character LCD for STM32 MCUs. This code in particular was written for STM32F411xx but with some code tweaks can support (in theory) any STM32 board.
+* [Matrix Keypad Library](https://github.com/Kiyoshika/MatrixKeypad-STM32) - A simple library for dealing with matrix keypads. This code in particular was written for STM32F411xx but with some code tweaks can support (in theory) any STM32 board.
 ### Samples
 * [UART Server Client](https://github.com/Kiyoshika/UART-Server-Client) - A sample project to show how to make two different MCUs communicate with each other over UART. This was written "bare metal" with no libraries (besides device headers).
 ### Software
