@@ -18,6 +18,7 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 ### Libraries
 * [Generalized Model Framework (libgmf)](https://github.com/Kiyoshika/Generalized-Model-Framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
 * [Zumpy](https://github.com/Kiyoshika/Zumpy) - A numpy-inspired array module for Python written in C. I started this project to understand how to use shared libraries in other languages, specifically Python.
+* [Matrix](https://github.com/Kiyoshika/Matrix) - A simple C++ matrix library for the learning experience.
 * [C-CSV-Parser](https://github.com/Kiyoshika/C-CSV-Parser) - A simple CSV parser which supports reading full CSV files or only specific columns and casting data to int/float.
 * [C-Hash-Map](https://github.com/Kiyoshika/C-Hash-Map) - A custom hashmap implementation for C which relies on another of my projects, [C-Linked-List](https://github.com/Kiyoshika/C-Linked-List) which is a linked list implementation for C.
 
@@ -26,6 +27,7 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 * [Simple Expression Parser](https://github.com/Kiyoshika/Simple-Expression-Parser) - A simple mathematical expression parser that takes a character buffer representing a mathematical expression and returns the evaluated value as a float. This will be used in an upcoming embedded calculator project.
 
 ### Software
+* [Vertisec](https://github.com/Kiyoshika/Vertisec) - A Vertica SQL parser to improve the bad error messages Vertica gives by default.
 * [Source Tracker](https://github.com/Kiyoshika/Source-Tracker) - A heavily simplified "git" clone for local version control of files/code. I started this project to learn more about file management in C++ (using C++17's filesystem API).
 
 ## Embedded
