@@ -16,7 +16,8 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 # Projects
 ## General (Non-Embedded)
 ### Libraries
-* [Generalized Model Framework (libgmf)](https://github.com/Kiyoshika/Generalized-Model-Framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
+* [Generalized Modelling Framework (libgmf)](https://github.com/Kiyoshika/generalized-modelling-framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
+* [**(LEGACY)** Generalized Model Framework (libgmf)](https://github.com/Kiyoshika/Generalized-Model-Framework) - An older version of the above project. Keeping around for an archive, may remove after the newer version matures a bit.
 * [Zumpy](https://github.com/Kiyoshika/Zumpy) - A numpy-inspired array module for Python written in C. I started this project to understand how to use shared libraries in other languages, specifically Python.
 * [CMatrix](https://github.com/Kiyoshika/CMatrix) - A simple C matrix library for the learning experience.
 * [C-CSV-Parser](https://github.com/Kiyoshika/C-CSV-Parser) - A simple CSV parser which supports reading full CSV files or only specific columns and casting data to int/float.
