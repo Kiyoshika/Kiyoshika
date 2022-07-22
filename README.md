@@ -10,8 +10,8 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 # Toolkit
 * **C99** - Currently my primary programming language
 * **C++17** - Secondary programming language
-* **Python** - Usually only use this when I have to, although I am now working on some C --> Python bindings for practice
-* **R** - Only use this for statistical projects; I have a few repos on here that show some things I've built with R.
+* **Python** - Usually only use this when I have to
+* **R** - Only use this for statistical projects; I have a few repos on here that show some things I've built with R
 
 # Projects
 ## General (Non-Embedded)
