@@ -7,11 +7,14 @@ I heavily prefer statically typed languages, more specifically C and C++. I love
 
 Despite my profile picture, I don't really watch much anime these days. But I may watch it once every few months.
 
-# Toolkit
-* **C99** - Currently my primary programming language
-* **C++17** - Secondary programming language
-* **Python** - Usually only use this when I have to
-* **R** - Only use this for statistical projects; I have a few repos on here that show some things I've built with R
+# Quick Summary
+Clearly I am a fan of C
+
+![](https://raw.githubusercontent.com/kiyoshika/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kiyoshika/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/kiyoshika/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kiyoshika/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 # Projects
 ## General (Non-Embedded)
