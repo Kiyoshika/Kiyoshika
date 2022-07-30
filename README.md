@@ -28,6 +28,7 @@ Clearly I am a fan of C
 ### Algorithms
 * [Generic Quicksort](https://github.com/Kiyoshika/Generic-Quicksort) - A templated generic quicksort algorithm in C++ to support native and user-defined data types.
 * [Simple Expression Parser](https://github.com/Kiyoshika/Simple-Expression-Parser) - A simple mathematical expression parser that takes a character buffer representing a mathematical expression and returns the evaluated value as a float. This will be used in an upcoming embedded calculator project.
+* [Quick Select](https://github.com/Kiyoshika/QuickSelect) - A simple implementation of the QuickSelect algorithm in C to find the k-th largest element in an unsorted array.
 
 ### Software
 * [Vertisec](https://github.com/Kiyoshika/Vertisec) - A Vertica SQL parser to improve the bad error messages Vertica gives by default.
