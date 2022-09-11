@@ -20,7 +20,7 @@ Clearly I am a fan of C
 ## General (Non-Embedded)
 ### Libraries
 * [Generalized Modelling Framework (libgmf)](https://github.com/Kiyoshika/generalized-modelling-framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
-* [JSON Parser](https://github.com/Kiyoshika/JSON-Parser) - A simple JSON parser written in C for fun.
+* [lookup](https://github.com/Kiyoshika/lookup) - A generic and dynamically-sized lookup table data structure to support inserting chunks of data and performing many queries against it
 * [Zumpy](https://github.com/Kiyoshika/Zumpy) - A numpy-inspired array module for Python written in C. I started this project to understand how to use shared libraries in other languages, specifically Python.
 * [CMatrix](https://github.com/Kiyoshika/CMatrix) - A simple C matrix library for the learning experience.
 * [C-CSV-Parser](https://github.com/Kiyoshika/C-CSV-Parser) - A simple CSV parser which supports reading full CSV files or only specific columns and casting data to int/float.
