@@ -20,11 +20,10 @@ Clearly I am a fan of C
 ## General (Non-Embedded)
 ### Libraries
 * [Generalized Modelling Framework (libgmf)](https://github.com/Kiyoshika/generalized-modelling-framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
+* [hashmap](https://github.com/Kiyoshika/hashmap) - A generic hashmap that supports user-defined keys and values and dynamically grows in size.
 * [lookup](https://github.com/Kiyoshika/lookup) - A generic and dynamically-sized lookup table data structure to support inserting chunks of data and performing many queries against it
 * [Zumpy](https://github.com/Kiyoshika/Zumpy) - A numpy-inspired array module for Python written in C. I started this project to understand how to use shared libraries in other languages, specifically Python.
 * [CMatrix](https://github.com/Kiyoshika/CMatrix) - A simple C matrix library for the learning experience.
-* [C-CSV-Parser](https://github.com/Kiyoshika/C-CSV-Parser) - A simple CSV parser which supports reading full CSV files or only specific columns and casting data to int/float.
-* [C-Hash-Map](https://github.com/Kiyoshika/C-Hash-Map) - A custom hashmap implementation for C which relies on another of my projects, [C-Linked-List](https://github.com/Kiyoshika/C-Linked-List) which is a linked list implementation for C.
 
 ### Algorithms
 * [kdtree](https://github.com/Kiyoshika/kdtree) - A simple kdtree implementation in C for finding nearest neighbors. This is used in the KNN implementation in one of my libraries, [Generalized Modelling Framework (libgmf)](https://github.com/Kiyoshika/generalized-modelling-framework)
