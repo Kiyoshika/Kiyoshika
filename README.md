@@ -18,6 +18,11 @@ Clearly I am a fan of C
 
 # Projects
 ## General (Non-Embedded)
+### Web Apps
+* `statswebapp` - A statistics web application to quickly generate visualizations, summary statistics and statistical models.
+  * [Frontend](https://github.com/Kiyoshika/statswebapp-ui) - Written in Vue
+  * [Backend](https://github.com/Kiyoshika/statswebapp-api) - Written in C#
+
 ### Libraries
 * [Generalized Modelling Framework (libgmf)](https://github.com/Kiyoshika/generalized-modelling-framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
 * [hashmap](https://github.com/Kiyoshika/hashmap) - A generic hashmap that supports user-defined keys and values and dynamically grows in size.
