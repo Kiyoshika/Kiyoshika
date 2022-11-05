@@ -19,6 +19,8 @@ Clearly I am a fan of C
 # Projects
 ## General (Non-Embedded)
 
+### Languages
+* [moca](https://github.com/Kiyoshika/moca) - My first attempt at writing a compiled language called moca. A hybrid of C/C++/C# with some custom features.
 ### Libraries
 * [Generalized Modelling Framework (libgmf)](https://github.com/Kiyoshika/generalized-modelling-framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
 * [hashmap](https://github.com/Kiyoshika/hashmap) - A generic hashmap that supports user-defined keys and values and dynamically grows in size.
