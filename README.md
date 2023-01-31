@@ -10,11 +10,9 @@ Despite my profile picture, I don't really watch much anime these days. But I ma
 # Quick Summary
 Clearly I am a fan of C
 
-![](https://raw.githubusercontent.com/kiyoshika/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kiyoshika/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyoshika&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/kiyoshika/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kiyoshika/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kiyoshika&theme=dark&background=000000)](https://git.io/streak-stats)
 
 # Projects
 ## General (Non-Embedded)
