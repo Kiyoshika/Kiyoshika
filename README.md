@@ -21,6 +21,7 @@ Clearly I am a fan of C
 * [moca](https://github.com/Kiyoshika/moca) - My first attempt at writing a compiled language called moca. A hybrid of C/C++/C# with some custom features.
 
 ### Libraries
+* [CUtil](https://github.com/Kiyoshika/cutil) - My version of a "C Standard Library" implementing a bunch of common data structures to use in my future projects.
 * [Cerveurus](https://github.com/Kiyoshika/cerveurus) - My fork of [cerveur](https://github.com/infraredCoding/cerveur). A simple web server framework to build web backends written in C.
 * [Generalized Modelling Framework (libgmf)](https://github.com/Kiyoshika/generalized-modelling-framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
 * [hashmap](https://github.com/Kiyoshika/hashmap) - A generic hashmap that supports user-defined keys and values and dynamically grows in size.
