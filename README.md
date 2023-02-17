@@ -17,9 +17,6 @@ Clearly I am a fan of C
 # Projects
 ## General (Non-Embedded)
 
-### Languages
-* [moca](https://github.com/Kiyoshika/moca) - My first attempt at writing a compiled language called moca. A hybrid of C/C++/C# with some custom features.
-
 ### Libraries
 * [CUtil](https://github.com/Kiyoshika/cutil) - My version of a "C Standard Library" implementing a bunch of common data structures to use in my future projects.
 * [Cerveurus](https://github.com/Kiyoshika/cerveurus) - My fork of [cerveur](https://github.com/infraredCoding/cerveur). A simple web server framework to build web backends written in C.
