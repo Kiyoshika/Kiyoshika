@@ -39,11 +39,6 @@ Clearly I am a fan of C
 * [Vertisec](https://github.com/Kiyoshika/Vertisec) - A Vertica SQL parser to improve the bad error messages Vertica gives by default.
 * [Source Tracker](https://github.com/Kiyoshika/Source-Tracker) - A heavily simplified "git" clone for local version control of files/code. I started this project to learn more about file management in C++ (using C++17's filesystem API).
 
-### Web Apps
-* `statswebapp` - A statistics web application to quickly generate visualizations, summary statistics and statistical models.
-  * [Frontend](https://github.com/Kiyoshika/statswebapp-ui) - Written in Vue
-  * [Backend](https://github.com/Kiyoshika/statswebapp-api) - Written in C#
-
 ## Embedded
 ### Libraries
 * [HD44780 LCD Library](https://github.com/Kiyoshika/HD44780-STM32) - A lightweight library for the HD44780 16x2 character LCD for STM32 MCUs. This code in particular was written for STM32F411xx but with some code tweaks can support (in theory) any STM32 board.
