@@ -18,7 +18,7 @@ Clearly I am a fan of C
 ## General (Non-Embedded)
 
 ### Libraries
-* [CUtil](https://github.com/Kiyoshika/cutil) - My version of a "C Standard Library" implementing a bunch of common data structures to use in my future projects.
+* [DataTable](https://github.com/Kiyoshika/DataTable) - A library to handle/process tabular data in C similar to Pandas for Python.
 * [Cerveurus](https://github.com/Kiyoshika/cerveurus) - My fork of [cerveur](https://github.com/infraredCoding/cerveur). A simple web server framework to build web backends written in C.
 * [Generalized Modelling Framework (libgmf)](https://github.com/Kiyoshika/generalized-modelling-framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
 * [hashmap](https://github.com/Kiyoshika/hashmap) - A generic hashmap that supports user-defined keys and values and dynamically grows in size.
