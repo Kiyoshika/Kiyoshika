@@ -18,6 +18,7 @@ Clearly I am a fan of C
 ## General (Non-Embedded)
 
 ### Libraries
+* [JSON Parser for C](https://github.com/Kiyoshika/json-parser) - A simple-to-use JSON parser for the C language written because I was bored on a Thursday night.
 * [DataTable](https://github.com/Kiyoshika/DataTable) - A library to handle/process tabular data in C similar to Pandas for Python.
 * [Cerveurus](https://github.com/Kiyoshika/cerveurus) - My fork of [cerveur](https://github.com/infraredCoding/cerveur). A simple web server framework to build web backends written in C.
 * [Generalized Modelling Framework (libgmf)](https://github.com/Kiyoshika/generalized-modelling-framework) - A very flexible optimization framework for building different types of predictive models with modularity in mind - like legos, but for predictive modelling.
