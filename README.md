@@ -17,6 +17,9 @@ Clearly I am a fan of C
 # Projects
 ## General (Non-Embedded)
 
+### Languages
+* [Terminal Markup Language](https://github.com/Kiyoshika/tml) - A markup language to render interactive elements in the terminal. Essentially HTML/JS for the terminal.
+
 ### Libraries
 * [JSON Parser for C](https://github.com/Kiyoshika/json-parser) - A simple-to-use JSON parser for the C language written because I was bored on a Thursday night.
 * [DataTable](https://github.com/Kiyoshika/DataTable) - A library to handle/process tabular data in C similar to Pandas for Python.
