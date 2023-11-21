@@ -5,7 +5,7 @@ I'm a self-taught programmer but also pretty passionate about statistics.
 
 I heavily prefer statically typed languages, more specifically C and C++. I love memory management and pointers even though it can be frustrating at times.
 
-Active contributor to [GosuB Browser](https://github.com/gosub-browser), a web browser written in Rust.
+Active contributor to [Gosub Browser](https://github.com/gosub-browser), a web browser written in Rust.
 
 # Quick Summary
 Clearly I am a fan of C
