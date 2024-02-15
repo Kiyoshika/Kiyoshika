@@ -5,7 +5,7 @@ I'm a self-taught programmer but also pretty passionate about statistics.
 
 I heavily prefer statically typed languages, more specifically C and C++. I love memory management and pointers even though it can be frustrating at times.
 
-Active contributor to [Gosub Browser](https://github.com/gosub-browser), a web browser written in Rust.
+Active contributor to [Gosub Browser](https://github.com/gosub-browser) (Oct 2023 - Jan 2024), a web browser written in Rust.
 
 # Quick Summary
 Clearly I am a fan of C
@@ -16,6 +16,9 @@ Clearly I am a fan of C
 
 # Projects
 ## General (Non-Embedded)
+
+### Services
+* [Order Service](https://github.com/Kiyoshika/orderservice) - A mock microservice managing orders in an e-commerce platform.
 
 ### Languages
 * [Terminal Markup Language](https://github.com/Kiyoshika/terminal-markup-language) - A markup language to render interactive elements in the terminal. Essentially HTML/JS for the terminal.
