@@ -24,6 +24,7 @@ Clearly I am a fan of C
 * [Terminal Markup Language](https://github.com/Kiyoshika/terminal-markup-language) - A markup language to render interactive elements in the terminal. Essentially HTML/JS for the terminal.
 
 ### Libraries
+* [JSON Parser for Java](https://github.com/Kiyoshika/json-parser-java) - A minimalistic JSON parser for Java
 * [JSON Parser for C](https://github.com/Kiyoshika/json-parser) - A simple-to-use JSON parser for the C language written because I was bored on a Thursday night.
 * [DataTable](https://github.com/Kiyoshika/DataTable) - A library to handle/process tabular data in C similar to Pandas for Python.
 * [Cerveurus](https://github.com/Kiyoshika/cerveurus) - My fork of [cerveur](https://github.com/infraredCoding/cerveur). A simple web server framework to build web backends written in C.
