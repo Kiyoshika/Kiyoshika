@@ -17,9 +17,6 @@ Clearly I am a fan of C
 # Projects
 ## General (Non-Embedded)
 
-### Services
-* [Order Service](https://github.com/Kiyoshika/orderservice) - A mock microservice managing orders in an e-commerce platform.
-
 ### Languages
 * [Terminal Markup Language](https://github.com/Kiyoshika/terminal-markup-language) - A markup language to render interactive elements in the terminal. Essentially HTML/JS for the terminal.
 
@@ -41,10 +38,14 @@ Clearly I am a fan of C
 * [Quick Select](https://github.com/Kiyoshika/QuickSelect) - A simple implementation of the QuickSelect algorithm in C to find the k-th largest element in an unsorted array.
 
 ### Software
+* [Auto Systemd](https://github.com/Kiyoshika/auto-systemd) - A command line tool to deploy servers/jobs to a linux server using systemd.
 * [Terminal Text Edit](https://github.com/Kiyoshika/ttedit) - A terminal text editor greatly inspired by vi(m) that I wrote to learn how the ncurses library works to build interactive terminal applications.
 * [Feather WMS](https://github.com/Kiyoshika/feather-wms) - A basic WMS (Warehouse Management System) to simulate operations within a warehouse such as queueing orders for picking, replenishment, cycle counting, receiving POs and put-away.
 * [Vertisec](https://github.com/Kiyoshika/Vertisec) - A Vertica SQL parser to improve the bad error messages Vertica gives by default.
 * [Source Tracker](https://github.com/Kiyoshika/Source-Tracker) - A heavily simplified "git" clone for local version control of files/code. I started this project to learn more about file management in C++ (using C++17's filesystem API).
+
+### Services
+* [Order Service](https://github.com/Kiyoshika/orderservice) - A mock microservice managing orders in an e-commerce platform.
 
 ## Embedded
 ### Libraries
