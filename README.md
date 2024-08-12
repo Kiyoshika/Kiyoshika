@@ -21,6 +21,7 @@ Clearly I am a fan of C
 * [Terminal Markup Language](https://github.com/Kiyoshika/terminal-markup-language) - A markup language to render interactive elements in the terminal. Essentially HTML/JS for the terminal.
 
 ### Libraries
+* [CSV Reader](https://github.com/Kiyoshika/csv-reader) - A very simple CSV parser in C++ to process CSV files.
 * [Inverse Exponential](https://github.com/Kiyoshika/inverse-exponential) - A Python implementation of a custom inverse exponential distribution to model exponentially ascending data
 * [JSON Parser for Java](https://github.com/Kiyoshika/json-parser-java) - A minimalistic JSON parser for Java
 * [JSON Parser for C](https://github.com/Kiyoshika/json-parser) - A simple-to-use JSON parser for the C language written because I was bored on a Thursday night.
