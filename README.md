@@ -47,6 +47,7 @@ Clearly I am a fan of C
 * [Source Tracker](https://github.com/Kiyoshika/Source-Tracker) - A heavily simplified "git" clone for local version control of files/code. I started this project to learn more about file management in C++ (using C++17's filesystem API).
 
 ### Services
+* [Mini Web Services](https://github.com/Kiyoshika/miniwebservices-api) - My tiny remake of Amazon Web Services to practice Java
 * [Order Service](https://github.com/Kiyoshika/orderservice) - A mock microservice managing orders in an e-commerce platform.
 
 ## Embedded
