@@ -5,7 +5,9 @@ I'm a self-taught programmer but also pretty passionate about statistics.
 
 I heavily prefer statically typed languages, more specifically C and C++. I love memory management and pointers even though it can be frustrating at times.
 
-Active contributor to [Gosub Browser](https://github.com/gosub-browser) (Oct 2023 - Jan 2024), a web browser written in Rust.
+I'm currently attempting to write my own JVM in C: https://github.com/Kiyoshika/toy-jvm
+
+Old contributor to [Gosub Browser](https://github.com/gosub-browser) (Oct 2023 - Jan 2024), a web browser written in Rust.
 
 # Quick Summary
 Clearly I am a fan of C
@@ -41,6 +43,7 @@ Clearly I am a fan of C
 * [Quick Select](https://github.com/Kiyoshika/QuickSelect) - A simple implementation of the QuickSelect algorithm in C to find the k-th largest element in an unsorted array.
 
 ### Software
+* [Toy JVM](https://github.com/Kiyoshika/toy-jvm) - An attempt at writing a (somewhat) Java 8 compliant JVM
 * [Auto Systemd](https://github.com/Kiyoshika/auto-systemd) - A command line tool to deploy servers/jobs to a linux server using systemd.
 * [Terminal Text Edit](https://github.com/Kiyoshika/ttedit) - A terminal text editor greatly inspired by vi(m) that I wrote to learn how the ncurses library works to build interactive terminal applications.
 * [Feather WMS](https://github.com/Kiyoshika/feather-wms) - A basic WMS (Warehouse Management System) to simulate operations within a warehouse such as queueing orders for picking, replenishment, cycle counting, receiving POs and put-away.
