@@ -7,7 +7,7 @@ I heavily prefer statically typed languages, more specifically C and C++. I love
 
 I'm currently attempting to write my own JVM in C: https://github.com/Kiyoshika/toy-jvm
 
-Old contributor to [Gosub Browser](https://github.com/gosub-browser) (Oct 2023 - Jan 2024), a web browser written in Rust.
+Old contributor to [Gosub Browser](https://github.com/gosub-io/gosub-engine) (Sep 2023 - Jan 2024), a web browser written in Rust.
 
 # Quick Summary
 Clearly I am a fan of C
