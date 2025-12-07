@@ -35,6 +35,7 @@ Clearly I am a fan of C
 * [CMatrix](https://github.com/Kiyoshika/CMatrix) - A simple C matrix library for the learning experience.
 
 ### Algorithms
+* [Simulated Annealing](https://github.com/Kiyoshika/simulated-annealing) - My C implementation of the simulated annealing heuristic optimization algorithm
 * [asm-quicksort](https://github.com/Kiyoshika/asm-quicksort) - A quicksort implementation written in pure assembly (GAS/gcc)
 * [Generic Quicksort](https://github.com/Kiyoshika/Generic-Quicksort) - A templated generic quicksort algorithm in C++ to support native and user-defined data types.
 * [Simple Expression Parser](https://github.com/Kiyoshika/Simple-Expression-Parser) - A simple mathematical expression parser that takes a character buffer representing a mathematical expression and returns the evaluated value as a float. This will be used in an upcoming embedded calculator project.
