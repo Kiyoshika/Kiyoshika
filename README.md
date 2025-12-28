@@ -5,7 +5,7 @@ I'm a self-taught programmer but also pretty passionate about statistics.
 
 I heavily prefer statically typed languages, more specifically C and C++. I love memory management and pointers even though it can be frustrating at times.
 
-Old contributor to [Gosub Browser](https://github.com/gosub-io/gosub-engine) (Sep 2023 - Jan 2024), a web browser written in Rust.
+Currently working on [OpenIDE](https://github.com/Kiyoshika/openIDE), an open source IDE written in C++ with Qt6.
 
 # Quick Summary
 Clearly I am a fan of C
