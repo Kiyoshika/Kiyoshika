@@ -42,6 +42,7 @@ Clearly I am a fan of C
 * [Quick Select](https://github.com/Kiyoshika/QuickSelect) - A simple implementation of the QuickSelect algorithm in C to find the k-th largest element in an unsorted array.
 
 ### Software
+* [OpenIDE](https://github.com/Kiyoshika/openIDE) - An open source IDE written in C++ with Qt6
 * [Auto Systemd](https://github.com/Kiyoshika/auto-systemd) - A command line tool to deploy servers/jobs to a linux server using systemd.
 * [Terminal Text Edit](https://github.com/Kiyoshika/ttedit) - A terminal text editor greatly inspired by vi(m) that I wrote to learn how the ncurses library works to build interactive terminal applications.
 * [Feather WMS](https://github.com/Kiyoshika/feather-wms) - A basic WMS (Warehouse Management System) to simulate operations within a warehouse such as queueing orders for picking, replenishment, cycle counting, receiving POs and put-away.
